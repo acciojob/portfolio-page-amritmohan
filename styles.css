@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+header {
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        section {
+            margin: 20px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #e4e4e4;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
